@@ -1,0 +1,2 @@
+# scout
+Valorant Twitch Extension
