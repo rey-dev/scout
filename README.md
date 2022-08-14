@@ -1,10 +1,8 @@
 # scout
 Valorant Twitch Extension
 
-
 ## Description
-Twitch overlay extension that will show valorant account rank and statistics on stream. This removes the need for the streamer to create and manage rank/stat commands in chat, as well as provide an interactive ui for viewers.
-
+Valorant scout is a simple twitch extension that keeps viewers up to date with the streamer's overall stats. This will allow streamers to show their account's stats as a screen overlay removing the need to set up and maintain a rank command that shows their rank/stats in chat
 
 ## Riot API
 For this extension, we will be utilizing the  `VAL-MATCH-V1` and `VAL-CONTENT-V1` apis.
